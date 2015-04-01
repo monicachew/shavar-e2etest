@@ -16,6 +16,7 @@ Usage
  * if TP is enabled, test will pass
 
 .. code:: bash
+
  $ git clone xxx
  $ cd shavar-e2etest
  $ ./tp_sanity_test.sh
